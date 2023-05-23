@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Franky's</title>
+    <link rel="stylesheet" href="css">
+    <script src="js.js"></script>
+
+</head>
+
+<body>
+            <div class="header">
+               <header>  </header>
+            </div>
+
+        <div align="center">
+            <img src="/res/imag/1.jpg" alt="Logo" width="90%" height="auto"  >
+            <br>
+            <img src="/res/imag/2.jpg" alt="Logo" width="90%" height="auto"  >
+            <br>
+            <img src="/res/imag/3.jpg" alt="Logo" width="90%"  >
+            <br>
+            <img src="/res/imag/4.jpg" alt="Logo" width="90%"  >
+        </div>
+
+
+
+</body>

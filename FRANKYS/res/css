@@ -1,0 +1,30 @@
+/*C:\Users\Lenovo\Downloads\CSS_1\practica-selectores/css/Untitled-1.css*/
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap');
+
+
+body{
+    background-color:#000000;
+    color:#821111;
+}
+
+*{ font-family: 'Oswald';
+
+}
+
+section{
+    background-color: #000000;
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    
+}
+header {
+    font-size: 15vh;
+    text-align: center;
+
+    align-content: center;
+    margin-block: 30px;
+    image-rendering: auto;
+}
+
